@@ -93,7 +93,6 @@ class App extends Component {
       <div className="App">
         <h1>Hi, im jesbert</h1>
         <p className={classes.join('')}> This is working</p>
-        <p className={classes.join('')}> This is working</p>
         <button 
           style={style} 
           onClick={this.togglePersonHandler}>Switch name
